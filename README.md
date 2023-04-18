@@ -22,8 +22,6 @@ The app has a single activity with a few UI elements that allow the user to set 
 <h4>Contributing</h4>
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-<h4>License</h4>
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 <h4>Acknowledgments</h4>
 This app was inspired by the official Android documentation on SharedPreferences.
